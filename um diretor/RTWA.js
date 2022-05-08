@@ -4,7 +4,7 @@
 	"update": [ 
 		{ 
 			"languaje": "en", 
-			"changelog": "https://raw. githubusercontent.com/thepolarxs/PWA/main/changelog-en.html" 
+			"changelog": "https://raw.githubusercontent.com/Robinairdraktutoriais/RTWA/main/changelog-en.html" 
 		}, 
 		{ 
 			"languaje": "es", 
