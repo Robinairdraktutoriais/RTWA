@@ -8,7 +8,7 @@
 		}, 
 		{ 
 			"languaje": "es", 
-			"changelog": "https://raw.githubusercontent.com/thepolarxs/PWA/main/changelog- es.html" 
+			"changelog": "https://raw.githubusercontent.com/Robinairdraktutoriais/RTWA/main/changelog-es.html" 
 		}, 
 		{ 
 			"languaje": "pt", 
