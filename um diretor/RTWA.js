@@ -1,5 +1,5 @@
 { 
-	"version": "2.0", 
+	"version": "14.0", 
 	"download": "https://t.me/robinairdraktutoriais", 
 	"update": [ 
 		{ 
