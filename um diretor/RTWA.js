@@ -12,7 +12,7 @@
 		}, 
 		{ 
 			"languaje": "pt", 
-			"changelog": "https://raw.githubusercontent.com/thepolarxs/PWA/main/changelog-pt.html" 
+			"changelog": "https://raw.githubusercontent.com/Robinairdraktutoriais/RTWA/main/changelog-pt.html" 
 		} 
 	] 
 }
