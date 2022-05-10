@@ -7,7 +7,7 @@
             "title": "WhatsApp plus 16.20",
             "nota": "falso",
             "msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
-            "baixar": "https://crismod.com/whatsapp/com.whatsapp",
+            "baixar": "https://youtube.com/c/RobinAirdraktutoriais",
             "atualizar": [
                 {
                     "languaje": "pt",
