@@ -1,7 +1,7 @@
 {
     "pacotes": [
         {   
-            "versão": "16.20",
+            "versão": "16.25",
             "pacote": "com.whatsapp",
             "status": "update_title",
             "title": "WhatsApp plus 16.25",
