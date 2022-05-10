@@ -1,10 +1,10 @@
 {
     "pacotes": [
         {   
-            "versão": "19.35",
+            "versão": "16.20",
             "pacote": "com.whatsapp",
             "status": "update_title",
-            "title": "WhatsApp {M Pro} 19.35",
+            "title": "WhatsApp plus 16.20",
             "nota": "falso",
             "msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
             "baixar": "https://crismod.com/whatsapp/com.whatsapp",
