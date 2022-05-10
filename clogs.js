@@ -6,7 +6,7 @@
             "status": "update_title",
             "title": "WhatsApp plus 16.20",
             "nota": "falso",
-            "msgtxt": "https://raw.githubusercontent.com/CrisMod/WhatsApp/main/changelog-en.html",
+            "msgtxt": "https://raw.githubusercontent.com/Robinairdraktutoriais/RTWA/main/Mais/changelog-pt.txt",
             "baixar": "https://youtube.com/c/RobinAirdraktutoriais",
             "atualizar": [
                 {
